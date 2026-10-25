@@ -1,6 +1,12 @@
 # SpendWise — Personal Expense Tracking & Financial Analytics
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-SpendWise-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://samarthgudoorkar-max.github.io/SpendWise/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-1E293B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samarthgudoorkar-max/SpendWise)
+
 SpendWise is a personal expense tracking and financial intelligence web application built with React, TypeScript, Tailwind CSS, and Recharts. Inspired by modern fintech dashboards, it offers real-time cash flow monitoring, multi-month spending trend analysis, category allocations, and client-side transaction management backed by browser LocalStorage.
+
+🔗 **Live Application URL**: [https://samarthgudoorkar-max.github.io/SpendWise/](https://samarthgudoorkar-max.github.io/SpendWise/)  
+📂 **Source Code Repository**: [https://github.com/samarthgudoorkar-max/SpendWise](https://github.com/samarthgudoorkar-max/SpendWise)
 
 ---
 
